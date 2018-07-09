@@ -1,0 +1,13 @@
+.bar { fill: steelblue; }
+.bar1 { fill: rgb(4, 126, 99); }
+.axis path,  .axis line {
+    fill : none;
+    stroke : rgb(3, 3, 3);
+    shape-rendering: crispEdges;
+  }
+  
+  .axis text {
+    font-size:12px;
+    font-family: Helvetica, sans-serif;
+    fill: rgb(175, 9, 17);
+  }
